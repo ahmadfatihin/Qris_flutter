@@ -1,0 +1,20 @@
+name: qris_toolkit
+description: >-
+  Pure Dart toolkit for QRIS (Quick Response Code Indonesian Standard):
+  parse, validate, and convert static QRIS to dynamic with amount and fees.
+version: 0.1.0
+repository: https://github.com/ahmadfatihin/qris_toolkit
+issue_tracker: https://github.com/ahmadfatihin/qris_toolkit/issues
+topics:
+  - qris
+  - payment
+  - qr-code
+  - indonesia
+  - emvco
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
